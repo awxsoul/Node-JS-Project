@@ -1,0 +1,9 @@
+3. Create a new database for storing marks of 
+    students in the node js course
+
+    a) Insert 20 mock rows
+    b) Create an API (method:GET, "/getTopper") 
+        to get the details of the topper
+    c) Create an API (method:GET, "/getFailedList") 
+        to get the details of the students who score
+         less than 50%
